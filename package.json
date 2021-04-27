@@ -16,7 +16,7 @@
     "@mdx-js/react": "^1.6.18",
     "@sentry-internal/global-search": "0.0.37",
     "@sentry/browser": "^5.30.0",
-    "@sentry/gatsby": "^5.22.3",
+    "@sentry/gatsby": "^5.30.0",
     "@sentry/react": "^5.30.0",
     "@sentry/tracing": "^5.22.3",
     "@sentry/webpack-plugin": "^1.13.0",
